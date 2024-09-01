@@ -16,3 +16,5 @@ Automatic tests written in playrwight python, goal of this collection of tests i
  - Python version 3.10.2 is needed
  - to install pytest use pip install -U pytest
  - to install playwright use pip install pytest-playwright
+
+my discord username: zuzkab._
